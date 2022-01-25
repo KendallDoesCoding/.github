@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
+- We're currently working on [Mogul Christmas](https://github.com/KendallDoesCoding/mogul-christmas)
+
 ### Connect with us:
 
 [<img align="left" alt="kendalldoescoding.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
