@@ -1,5 +1,5 @@
 ### Hey there, We're KendallDoesCoding Websites, Thanks for visiting our organization 👋
-This is a organization, where I ([KendallDoesCoding](https://github.com/KendallDoesCoding), store the source code of my main site and all the subdomains there. I usually work on these projects on my [main profile](https://github.com/KendallDoesCoding) and then fork it on this organization, but some projects I make only for the organization.
+This is a organization, where I ([KendallDoesCoding](https://github.com/KendallDoesCoding)), store the source code of my main site and all the subdomains there. I usually work on these projects on my [main profile](https://github.com/KendallDoesCoding) and then fork it on this organization, but some projects I make only for the organization.
 
 [![Website](https://img.shields.io/website?label=kendalldoescoding.gq&style=for-the-badge&url=https%3A%2F%2Fkendalldoescoding.gq)](https://kendalldoescoding.gq)
 
