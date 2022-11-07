@@ -7,7 +7,7 @@ This is a organization, where I ([KendallDoesCoding](https://github.com/KendallD
 
 ### Connect with us:
 
-[<img align="left" alt="kendalldoescoding.gq" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kendalldoescoding.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Youtube | YouTube" width="22px" src="https://svgshare.com/i/d5w.svg" />][youtube]
 
 <br />
@@ -19,5 +19,5 @@ This is a organization, where I ([KendallDoesCoding](https://github.com/KendallD
 
 <img src="https://komarev.com/ghpvc/?username=Kendall-Does-Coding-Websites" alt="Profile Views" />
 
-[website]: https://kendalldoescoding.gq
-[youtube]: https://kendalldoescoding.gq/codingYT
+[website]: https://kendalldoescoding.tech
+[youtube]: https://kendalldoescoding.tech/codingYT
